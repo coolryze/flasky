@@ -1,0 +1,8 @@
+{
+    "editor.detectIndentation": true,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/__pycache__": true,
+    }
+}

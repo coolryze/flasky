@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# MacOS
+bin/
+
+# Windows
+scripts/
+
+# Common
+include/
+pyvenv.cfg
