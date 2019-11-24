@@ -112,3 +112,6 @@ scripts/
 # Common
 include/
 pyvenv.cfg
+
+# VSCode
+.vscode/
